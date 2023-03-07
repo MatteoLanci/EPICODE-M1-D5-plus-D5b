@@ -3,7 +3,7 @@
 questa repo contiene 2 folder:
 
 # D5
-in questo esercizio vengono affinate ed approfondite le proprietà 'position: relative/absolute' e i pseudo-selettori di classe CSS;
+in questo esercizio vengono affinate ed approfondite le proprietà 'position: relative/absolute' e gli pseudo-selettori di classe CSS;
 
 # D5b
 Questa build richiedeva la creazione di una scacchiera (chessboard) utilizzando pseudo-selettori di classe e altre proprietà
